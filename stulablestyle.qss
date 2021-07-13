@@ -1,0 +1,4 @@
+QLabel#name,QLabel#num,QLabel#psw{
+    font-family:"Microsoft YaHei";
+    font-size:30px;
+}
